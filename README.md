@@ -23,6 +23,3 @@ Simply browse the repository and download the PDFs you'd like to use or share. T
 
 If you have suggestions or want to contribute, feel free to open an issue or reach out. Collaboration is welcome!
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE). You're free to use, modify, and distribute with attribution.
