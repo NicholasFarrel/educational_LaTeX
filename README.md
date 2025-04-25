@@ -1,6 +1,8 @@
 # 📚 educational_LaTeX
 
-This repository contains a collection of educational PDFs I created using LaTeX during my years as a teacher. These materials are designed to support both conceptual understanding and practical application across various topics.
+This repository contains a collection of educational PDFs I created using LaTeX during my years as a teacher in Brazil. All materials are written in **Portuguese**, as they were developed for use in Brazilian classrooms and tutoring sessions.
+
+These resources are designed to support both **conceptual understanding (theory)** and **hands-on practice (application)** across various subjects.
 
 ## 🗂️ What's Inside
 
